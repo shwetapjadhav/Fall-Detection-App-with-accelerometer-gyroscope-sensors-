@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fall Detection</string>
+    <string name="fetching_location">Fetching Location....</string>
+    <string name="sending_message">Sending Message....</string>
+    <string name="send">Send</string>
+    <string name="LAUNCH">LAUNCH</string>
+    <string name="FALL_DETECTION">FALL DETECTION</string>
+    <string name="launch">LAUNCH</string>
+    <string name="health_condition_monitoring">HEALTH CONDITION MONITORING</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="add_data">Add Data</string>
+    <string name="Continue">Continue</string>
+    <string name="RContact">RContact</string>
+    <string name="Thanks">Thank U For Using the App</string>
+    <string name="Stop_timer">STOP TIMER</string>
+</resources>
