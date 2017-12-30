@@ -42,7 +42,7 @@ import static android.hardware.SensorManager.SENSOR_DELAY_NORMAL;
 import static java.lang.System.out;
 
 /**
- * Created by DAMERA on 04-21-2017.
+ * Created by SJADHAV on 04-21-2017.
  */
 
 public class AccActivity extends AppCompatActivity implements SensorEventListener {
