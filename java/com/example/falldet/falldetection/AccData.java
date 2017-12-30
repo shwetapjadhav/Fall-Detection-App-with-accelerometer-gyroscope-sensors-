@@ -5,7 +5,7 @@ import android.content.Context;
 import java.io.Serializable;
 
 /**
- * Created by shwet on 04/14/2017.
+ * Created by SJADHAV on 04/14/2017.
  */
 
 public class AccData implements Serializable {
