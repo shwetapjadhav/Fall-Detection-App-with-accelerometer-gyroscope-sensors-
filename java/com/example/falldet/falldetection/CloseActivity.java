@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
 /**
- * Created by DAMERA on 05-05-2017.
+ * Created by SJADHAV on 05-05-2017.
  */
 
 public class CloseActivity extends AppCompatActivity {
